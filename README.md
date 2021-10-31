@@ -4,10 +4,10 @@
 <h2 align="left"> Projects I'm currently working on:</h2>
 
 - [FV1](https://github.com/277r/fv1), a video codec <b>[7%]</b>
-- [lunaDate](https://github.com/277r/luna_date), a simple program that converts gregorian calendar dates into a different date system which I don't have a name for yet <b>[75%]</b>
 <h2 align="left"> (Good) Projects that are finished:</h2>
 
-- [typeList](https://github.com/277r/typeList), a simple program that lists file types and the amount of files of those types
+- [lunaDate](https://github.com/277r/luna_date), a simple program that converts gregorian calendar dates into a different date system which I don't have a name for yet 
+- [typeList](https://github.com/277r/typeList), a simple program that lists file types and the amount of files of those types 
 - [simpleRLE](https://github.com/277r/simpleRLE), a simple run length encoding system, which can be used well for DCT compression 
 
 <br>
